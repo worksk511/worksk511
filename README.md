@@ -25,7 +25,7 @@ open_to:   Software engineering internships (Nov 2026 – Mar 2027) and graduate
 
 | Project | What it is | Built with |
 |---|---|---|
-| [**kyvro-digital-website**](https://github.com/worksk511/kyvro-digital-website) | Production site for my studio: service pages, pricing, a validated quote form saved to Postgres with email alerts, and **Jayy**, an AI assistant with rate limiting | React · TypeScript · TanStack Start · Tailwind · Supabase · Cloudflare |
+| [**kyvro-digital**](https://kyvrodigital.com) | Production site for my studio: service pages, pricing, a validated quote form saved to Postgres with email alerts, and **Jayy**, an AI assistant with rate limiting | React · TypeScript · TanStack Start · Tailwind · Supabase · Cloudflare |
 | [**online-exam-system**](https://github.com/worksk511/online-exam-system) | Console exam platform: teacher and student roles, hashed passwords, timed multiple-choice exams, automatic marking, answer review and results history | Java |
 | [**java-console-apps**](https://github.com/worksk511/java-console-apps) | ATM simulator, number guessing game and word counter | Java |
 | [**web-dev-projects**](https://github.com/worksk511/web-dev-projects) | Early web projects: a portfolio page and a streaming-site homepage layout | HTML · CSS |
